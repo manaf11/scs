@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:localization/models/task_list_model.dart';
 import 'package:localization/screens/tasks_list_screen.dart';
 import 'package:provider/provider.dart';
+// tis is a comment
 void main(){
   runApp(
     ChangeNotifierProvider(
